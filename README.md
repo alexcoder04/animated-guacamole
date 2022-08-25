@@ -35,3 +35,6 @@ in der Kommandozeile oder in einem anderen Skript benutzen willst.
 
 ---
 
+## Contributors
+
+[@nilswgnr](https://github.com/nilswgnr)
