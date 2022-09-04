@@ -1,7 +1,7 @@
 
 # animated-guacamole
 
----
+![Overview](./assets/overview.png)
 
 ## *ENGLISH*
 
